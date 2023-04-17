@@ -35,3 +35,10 @@ img {
     text-align: center;
     margin: auto;
 }
+
+
+
+table , td ,tr {
+    margin: auto;
+    border: 1px solid;
+}
